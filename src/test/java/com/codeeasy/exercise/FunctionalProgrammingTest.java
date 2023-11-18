@@ -1,10 +1,8 @@
 package com.codeeasy.exercise;
 
 import com.codeeasy.com.codeeasy.exercise.FunctionalProgramming;
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import java.math.BigDecimal;
 import java.math.MathContext;
 import java.math.RoundingMode;
 
